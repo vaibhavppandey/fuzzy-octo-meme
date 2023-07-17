@@ -14,21 +14,27 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 </header>
 
 <!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 5: Merge your pull request
+## Finish
 
-_Almost there! :heart:_
+_Congratulations friend, you've completed this course!_
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+<img src=https://octodex.github.com/images/Fintechtocat.png alt=celebrate width=300 align=right>
 
-### :keyboard: Activity: Merge your pull request
+Here's a recap of all the tasks you've accomplished in your repository:
 
-1. Click **Merge pull request**.
-1. Delete the branch `ci` (optional).
-1. _Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the "finish" on your own._
+- We created an Actions workflow to lint our Markdown files.
+- You caught an issue in a file and fixed the issue before it could make it to `main`.
+- You learned how to use build artifacts for test reports.
+- You enabled branch protections to require the workflow to pass before merging.
 
-<!-- Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step. -->
+### What's next?
+
+- Get more ideas of what you can do with [awesome actions](https://github.com/sdras/awesome-actions).
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
